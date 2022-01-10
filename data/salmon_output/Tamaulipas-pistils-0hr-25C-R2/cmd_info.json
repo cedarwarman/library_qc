@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.5.2",
+    "index": "/groups/rpalaniv/genomes/S_lycopersicum_v4/salmon_genome_index",
+    "libType": "A",
+    "mates1": "Tamaulipas-pistils-0hr-25C-R2_R1_001.fastq.gz",
+    "mates2": "Tamaulipas-pistils-0hr-25C-R2_R2_001.fastq.gz",
+    "threads": "5",
+    "validateMappings": [],
+    "gcBias": [],
+    "output": "/xdisk/rpalaniv/cedar/library_test/salmon_output/Tamaulipas-pistils-0hr-25C-R2_",
+    "auxDir": "aux_info"
+}

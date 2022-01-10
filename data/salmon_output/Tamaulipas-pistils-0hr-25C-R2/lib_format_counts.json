@@ -1,0 +1,22 @@
+{
+    "read_files": "[ Tamaulipas-pistils-0hr-25C-R2_R1_001.fastq.gz, Tamaulipas-pistils-0hr-25C-R2_R2_001.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 32520197,
+    "num_assigned_fragments": 32520197,
+    "num_frags_with_concordant_consistent_mappings": 23111982,
+    "num_frags_with_inconsistent_or_orphan_mappings": 9409861,
+    "strand_mapping_bias": 0.00003690590098531833,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 853,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 23111982,
+    "SF": 4380779,
+    "SR": 5028229,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
