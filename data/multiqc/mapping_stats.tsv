@@ -1,0 +1,11 @@
+sample_name	percent_aligned_salmon	million_mapped_salmon	percent_aligned_star	million_mapped_star
+Tamaulipas-pistils-0hr-25C-R1	57.90%	34.8	65.10%	39.2
+Tamaulipas-pistils-0hr-25C-R2	67.90%	32.5	76.10%	36.5
+Tamaulipas-pistils-3hr-25C-R1	56.00%	22.4	61.30%	24.5
+Tamaulipas-pistils-3hr-25C-R2	70.30%	31	80.90%	35.7
+Tamaulipas-pistils-3hr-37C-R1	58.70%	38.5	67.90%	44.5
+Tamaulipas-pistils-3hr-37C-R2	71.30%	28.3	82.10%	32.6
+Tamaulipas-pistils-8hr-25C-R1	59.80%	35.2	66.00%	38.8
+Tamaulipas-pistils-8hr-25C-R2	72.40%	29.5	82.80%	33.8
+Tamaulipas-pistils-8hr-37C-R1	60.10%	22.5	68.80%	25.8
+Tamaulipas-pistils-8hr-37C-R2	71.40%	30.4	83.20%	35.4

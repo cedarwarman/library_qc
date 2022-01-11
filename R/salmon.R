@@ -59,7 +59,7 @@ pcaData <- pcaData %>%
 
 ggplot(pcaData, aes(PC1, PC2, color = short_name, shape = library_prep)) +
   geom_point(size = 6) +
-  labs(title = "Library QC PCA",
+  labs(title = "DESeq2 PCA",
        x = paste0("PC1: ",percentVar[1],"% variance"),
        y = paste0("PC2: ",percentVar[2],"% variance")) +
   # scale_color_manual(values = c("#2F69FF", "#DC267F", "#FFB000")) +
