@@ -1,6 +1,6 @@
 # Introduction ------------------------------------------------------------
 # In this script I will do some dimensionality reduction with Salmon output
-# and look at differential gene expression.
+# and look at differential gene expression using DESeq2.
 
 # library(tidyverse)
 library(DESeq2)
